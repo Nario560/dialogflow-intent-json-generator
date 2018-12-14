@@ -1,5 +1,5 @@
 # intent_generator.py
-Used to generate DialogFlow in json format from text file source
+Used to generate DialogFlow intent in json format from text file source
 
 ### Requirements
 python 3.5.0 +
